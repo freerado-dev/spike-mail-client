@@ -1,0 +1,8 @@
+// Minimal placeholder for App-level gradle
+plugins {
+    id "com.android.application"
+}
+android {
+    namespace "com.example.spike_apple_mail"
+    compileSdkVersion 33
+}
