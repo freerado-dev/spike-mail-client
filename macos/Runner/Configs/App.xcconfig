@@ -1,4 +1,3 @@
-// Application-level settings for the macOS runner.
 PRODUCT_NAME = spike_apple_mail
 PRODUCT_BUNDLE_IDENTIFIER = com.example.spikeAppleMail
 PRODUCT_COPYRIGHT = Copyright © 2026 Example. All rights reserved.
