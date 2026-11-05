@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace "com.example.spike_apple_mail"
-    compileSdkVersion 33
+    compileSdkVersion 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
@@ -20,7 +20,7 @@ android {
     defaultConfig {
         applicationId "com.example.spike_apple_mail"
         minSdkVersion 21
-        targetSdkVersion 33
+        targetSdkVersion 34
         versionCode 1
         versionName "1.0.0"
     }
